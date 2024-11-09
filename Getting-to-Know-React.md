@@ -12,7 +12,7 @@ p5Js editor(React Code Base) - <https://github.com/processing/p5.js-web-editor>
 
 Topics - Components, HOCs(Wrapper Component) , Performance Improvement, Hooks
 
-**Performance Improvement(Re-render minimisation) - **
+**Performance Improvement(Re-render minimisation) -** 
 
 1.  Maintain the state within the component itself. If that's not feasible, manage the state at the LCA node. This approach prevents re-rendering of other components whose state remains unchanged.
 2.  Use Key attribute to help react identify list items. This helps to prevent re-rendering of already rendered list items.
