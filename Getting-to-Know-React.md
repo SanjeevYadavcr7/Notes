@@ -1,5 +1,3 @@
-**Lectures**
-
 **17/10 - Understanding React** 📚
 
 1.  Why frameworks are required and what purpose react servers.
